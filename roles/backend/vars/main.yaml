@@ -1,2 +1,4 @@
 mysql_root_password: ExpenseApp@1
 login_host: backend.aathidya.online
+app_location: /app
+component: backend
